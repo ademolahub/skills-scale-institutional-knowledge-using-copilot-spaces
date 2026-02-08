@@ -75,6 +75,110 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## UX Designer
+
+### Role Summary
+UX Designers craft intuitive, user-centered experiences that meet both user needs and business goals. They conduct research, design prototypes, and validate solutions through testing and feedback.
+
+### Responsibilities
+- Conduct user research and usability testing
+- Create wireframes, prototypes, and design specifications
+- Collaborate with Product and Engineering on feature designs
+- Ensure accessibility and design system consistency
+- Validate designs through user feedback and metrics
+
+### Goals
+- Improve user satisfaction and product usability
+- Reduce friction in user workflows
+- Ensure accessible and inclusive design
+- Maintain design consistency across products
+
+### Typical Communication
+- Design review sessions with Product and Engineering
+- User research readouts and journey maps
+- Design specs and Figma/prototype handoffs
+- Usability test findings and recommendations
+
+---
+
+## DevOps Engineer
+
+### Role Summary
+DevOps Engineers build and maintain the infrastructure, CI/CD pipelines, and deployment systems that enable fast, reliable delivery. They bridge development and operations to improve automation and reliability.
+
+### Responsibilities
+- Design and maintain CI/CD pipelines
+- Manage infrastructure as code and cloud resources
+- Monitor system health, performance, and availability
+- Automate deployment and rollback processes
+- Collaborate on incident response and system reliability
+
+### Goals
+- Minimize deployment time and manual toil
+- Maximize system uptime and reliability
+- Enable developer productivity through automation
+- Reduce mean time to recovery (MTTR) for incidents
+
+### Typical Communication
+- Infrastructure and pipeline design reviews
+- Deployment runbooks and postmortems
+- Monitoring dashboards and alerting setup
+- On-call handoffs and incident debriefs
+
+---
+
+## Security Lead
+
+### Role Summary
+Security Leads ensure that products and systems are built with security best practices, identify vulnerabilities, and guide teams on threat mitigation. They balance security requirements with delivery timelines.
+
+### Responsibilities
+- Conduct threat modeling and security reviews
+- Define and enforce security policies and standards
+- Review code and architecture for vulnerabilities
+- Manage security scanning tools and vulnerability tracking
+- Coordinate incident response for security events
+
+### Goals
+- Prevent security vulnerabilities in production
+- Ensure compliance with security standards and regulations
+- Build security awareness across teams
+- Minimize security incident impact and response time
+
+### Typical Communication
+- Security review sessions during design and planning
+- Threat model documentation and risk assessments
+- Vulnerability reports and remediation tracking
+- Security incident postmortems and playbooks
+
+---
+
+## Customer Success Manager
+
+### Role Summary
+Customer Success Managers ensure customers achieve their desired outcomes using the product. They gather feedback, advocate for customer needs, and coordinate support escalations.
+
+### Responsibilities
+- Onboard new customers and track adoption metrics
+- Gather and synthesize customer feedback for Product
+- Coordinate escalations and critical customer issues
+- Identify expansion opportunities and risks
+- Advocate for customer needs in planning and prioritization
+
+### Goals
+- Maximize customer retention and satisfaction
+- Drive product adoption and engagement
+- Reduce churn and identify growth opportunities
+- Surface customer insights to inform roadmap
+
+### Typical Communication
+- Weekly customer check-ins and business reviews
+- Customer feedback summaries for Product and Engineering
+- Escalation notifications and status updates
+- Success metrics and health score reports
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
